@@ -1,0 +1,1 @@
+The purpose of this repo: get familiar with React.
